@@ -1,0 +1,24 @@
+{
+  "name": "lab_7_ip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaifElDin04/lab_7_IP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SaifElDin04/lab_7_IP/issues"
+  },
+  "homepage": "https://github.com/SaifElDin04/lab_7_IP#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
